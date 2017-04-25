@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=helsea+Market|Josefin+Sans|Open+Sans');
+
+body {
+  background: url('http://4.bp.blogspot.com/-ch0vpsHP2Wg/Uo9Wrw_tLyI/AAAAAAAAA3o/gc2ZQfSKfqc/s1600/homergut.gif');
+    background-height: 100%;
+}
+
+svg {
+  width: 70%;
+  margin: auto;
+  background: red;
+  display: block;
+  margin: auto;
+}
+button {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  color: red;
+}
+span {
+  color: white;
+}
+h1 {
+  color: yellow;
+  font-size: 50px;
+  font-family: "Chelsea Market";
+  text-align: center;
+}
